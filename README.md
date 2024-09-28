@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Hello, nerds! 👋
 I'm **Jamal**, a passionate software developer and AI engineer. I specialize in **Machine Learning**, **Deep Learning**, and **Open Source** projects. I love building AI tools and solving real-world problems using technology.
 
 ## What I code 🖥️
