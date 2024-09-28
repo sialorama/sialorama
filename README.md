@@ -18,10 +18,6 @@ I'm **Jamal**, a passionate software developer and AI engineer. I specialize in 
 - **Energy Consumption API**:  
   A REST API providing energy consumption data in France, built using **HTML** and **REST** principles.
   - [Link to the project](https://github.com/sialorama/Une-API-opendata-consommation-energie)
-
-- **ASL Sign Detection**:  
-  A machine learning project for detecting American Sign Language (ASL) signs.
-  - [Link to the project](https://github.com/sialorama/ASL_sign_detection)
   
 - **Emotion Detection**:  
   Using machine learning to detect emotions based on facial expressions. Built with **Jupyter Notebook**.
