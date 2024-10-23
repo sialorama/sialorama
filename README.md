@@ -3,25 +3,20 @@
 I'm **Jamal**, a passionate software developer and AI engineer. I specialize in **Machine Learning**, **Deep Learning**, and **Open Source** projects. I love building AI tools and solving real-world problems using technology.
 
 ## What I code 🖥️
-- **Multithread Synchronized Chat Example**:  
+- **Multithread Synchronized Chat Example**:  [Link to the project](https://github.com/sialorama/Multithread-Snchronised-Chat_Example)  
   A project demonstrating a multithreaded system where threads can send and receive messages. Built with **Java**.
-  - [Link to the project](https://github.com/sialorama/Multithread-Snchronised-Chat_Example)
   
-- **Détecteur de masques**:  
+- **Détecteur de masques**:  [Link to the project](https://github.com/sialorama/Detecteur-de-masques)  
   A real-time mask detection system using **Python** and **OpenCV**.
-  - [Link to the project](https://github.com/sialorama/Detecteur-de-masques)
   
-- **AWS EC2 & RDS Setup**:  
+- **AWS EC2 & RDS Setup**:  [Link to the project](https://github.com/sialorama/AWS-EC2-RDS)  
   Setting up a **PostgresSQL DB** on an **AWS EC2** instance. Useful for anyone getting started with cloud services.
-  - [Link to the project](https://github.com/sialorama/AWS-EC2-RDS)
   
-- **Energy Consumption API**:  
+- **Energy Consumption API**:  [Link to the project](https://github.com/sialorama/Une-API-opendata-consommation-energie)  
   A REST API providing energy consumption data in France, built using **HTML** and **REST** principles.
-  - [Link to the project](https://github.com/sialorama/Une-API-opendata-consommation-energie)
   
-- **Emotion Detection**:  
+- **Emotion Detection**:  [Link to the project](https://github.com/sialorama/Detection_Des_Emotions)  
   Using machine learning to detect emotions based on facial expressions. Built with **Jupyter Notebook**.
-  - [Link to the project](https://github.com/sialorama/Detection_Des_Emotions)
 
 ## Technologies I use 💻
 - **Languages**: Java, Python, HTML, SQL
