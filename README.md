@@ -55,7 +55,7 @@ I'm **Jamal**, a dedicated **Software Developer** and **AI Engineer** passionate
   <a href="https://opencv.org/" rel="nofollow">  
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>  
   <a href="https://www.djangoproject.com/" rel="nofollow">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>  
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>  
   <a href="https://postman.com" rel="nofollow">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>  
   <a href="https://insomnia.rest/" rel="nofollow">  
