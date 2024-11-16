@@ -1,7 +1,3 @@
-Voici une version améliorée de ta présentation GitHub :  
-
----
-
 ## Hi there 👋  
 
 I'm **Jamal**, a dedicated **Software Developer** and **AI Engineer** passionate about solving real-world challenges through technology. My expertise lies in **Machine Learning**, **Deep Learning**, and **Open Source** development. I thrive on building innovative tools and collaborating on impactful projects.
@@ -86,5 +82,3 @@ Let’s connect and share ideas:
 - 🌐 GitHub: [sialorama](https://github.com/sialorama)  
 
 ---
-
-Qu'en penses-tu ? 😊  
