@@ -70,7 +70,7 @@ Hi fellow tech enthusiasts! I’m always eager to explore new technologies and t
 
 **Fun facts about me:**  
 - 🎸 I’m also a guitarist and and a member of the **Astérie Association** in Plougastel-Daoulas.  
-- ⚙️ I love tinkering with mechanical keyboards.  
+- ⚙️ I enjoy exploring hardware and optimizing workflows for a seamless tech experience.  
 - 🎭 Huge fan of musicals and a good laugh!  
 
 Let’s connect and share ideas:  
