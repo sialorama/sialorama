@@ -69,7 +69,7 @@ I'm **Jamal**, a dedicated **Software Developer** and **AI Engineer** passionate
 Hi fellow tech enthusiasts! I’m always eager to explore new technologies and tackle exciting challenges. Whether it's developing AI-driven solutions or diving into **open source** collaborations, my goal is to create meaningful impact.  
 
 **Fun facts about me:**  
-- 🎸 I’m also a guitarist and part of the **Astérie Association** in Plougastel-Daoulas.  
+- 🎸 I’m also a guitarist and and a member of the **Astérie Association** in Plougastel-Daoulas.  
 - ⚙️ I love tinkering with mechanical keyboards.  
 - 🎭 Huge fan of musicals and a good laugh!  
 
