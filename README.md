@@ -1,37 +1,73 @@
-## Hi there 👋
+Voici une version améliorée de ta présentation GitHub :  
 
-I'm **Jamal**, a passionate software developer and AI engineer. I specialize in **Machine Learning**, **Deep Learning**, and **Open Source** projects. I love building AI tools and solving real-world problems using technology.
+---
 
-## What I code 🖥️
-- **Multithread Synchronized Chat Example**:  [Link to the project](https://github.com/sialorama/Multithread-Snchronised-Chat_Example)  
-  A project demonstrating a multithreaded system where threads can send and receive messages. Built with **Java**.
-  
-- **Détecteur de masques**:  [Link to the project](https://github.com/sialorama/Detecteur-de-masques)  
-  A real-time mask detection system using **Python** and **OpenCV**.
-  
-- **AWS EC2 & RDS Setup**:  [Link to the project](https://github.com/sialorama/AWS-EC2-RDS)  
-  Setting up a **PostgresSQL DB** on an **AWS EC2** instance. Useful for anyone getting started with cloud services.
-  
-- **Energy Consumption API**:  [Link to the project](https://github.com/sialorama/Une-API-opendata-consommation-energie)  
-  A REST API providing energy consumption data in France, built using **HTML** and **REST** principles.
-  
-- **Emotion Detection**:  [Link to the project](https://github.com/sialorama/Detection_Des_Emotions)  
-  Using machine learning to detect emotions based on facial expressions. Built with **Jupyter Notebook**.
+## Hi there 👋  
 
-## Technologies I use 💻
-<p align="left" dir="auto"> <a href="https://www.gnu.org/software/bash/" rel="nofollow"> <img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8b881d3f5c08ca1a728a02285aff8693650830509c4189d0d6b4b335b10af4e9/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;"> </a> <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://flask.palletsprojects.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0cbb9cdab53ebf1a46cb81b884ab4d76626eb3ae0507381a4335372329c4b805/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" alt="flask" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width: 100%;"> </a> <a href="https://cloud.google.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/d124825d0e0968226011ee97e6001d44a4844a75cc2a1a058cde8bf7791bea97/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://hadoop.apache.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/983b0c44b8c2c62ca85b29dad953826788f8632545c049c25a2ebe080ef70f33/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" alt="hadoop" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="max-width: 100%;"> </a> <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/37d18c783eef6f2c2ee36b6cf889e89a00f576c700a1370748d79198fa2358cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a> <a href="https://hive.apache.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/49418ad70c8141b8d0c1972c0fdec06eef42145575cc5373ddfda3a1647263d0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f686976652f6170616368655f686976652d69636f6e2e737667" alt="hive" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://opencv.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/de6ed745c22f7f8b8f8ef981a7ea194e4cb5d106e84a272fe283cae357c9abc5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="max-width: 100%;"> </a> <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://pytorch.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/f9cfc512aa5c89da6c6069ea83d0989a2d7bdd814027d58af34ff8a0a6fa3bb6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="max-width: 100%;"> </a> <a href="https://scikit-learn.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd749c222d8c2520e9595af51d39578b46e22d5190fe5b2f31c01bc32446321e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;"> </a> <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9ffda513f5a640d6aa9ee07c2b2fcbbc421d6101cd6df62dd0e1f2be9fd1beb0/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="40" height="40" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a> <a href="https://www.sqlite.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/6ba82d645da10e17a701db0997df23158e7b860b95bdc1444572b4ef92ccba85/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.tensorflow.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6bda50ab133175c1dca7aebfc89410603b2259dd9399fa0e62259263c009ae39/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;"> </a> </p>  
+I'm **Jamal**, a dedicated **Software Developer** and **AI Engineer** passionate about solving real-world challenges through technology. My expertise lies in **Machine Learning**, **Deep Learning**, and **Open Source** development. I thrive on building innovative tools and collaborating on impactful projects.
 
-## About Me 👤
-Hello fellow nerds! I'm always curious about new technologies and love to discuss topics like **AI**, **machine learning**, and **open source** development. I also enjoy tinkering with mechanical keyboards and watching musicals. Oh, and I'm a huge fan of jokes and candy 🍬.
+---
 
-Feel free to reach out if you'd like to collaborate or just chat about tech!  
-- [Follow me on Twitter](https://twitter.com/sialorama)
-- [Follow me on LinkedIn](https://www.linkedin.com/in/jibanni/)
-- [Check out my blog](#)
+## What I Code 🖥️  
+- **[Multithread Synchronized Chat Example](https://github.com/sialorama/Multithread-Snchronised-Chat_Example)**  
+  A robust Java project showcasing a multithreaded chat system for seamless communication between threads.  
+  **Tech Stack**: Java, Multithreading.  
 
-## Get in touch 🤝
-- 🏡 Based in **Plougastel-Daoulas**
-- 💻 Find me on GitHub at [sialorama](https://github.com/sialorama)
+- **[Mask Detector](https://github.com/sialorama/Detecteur-de-masques)**  
+  A real-time system for mask detection using Python and OpenCV, designed to promote health safety measures.  
+  **Tech Stack**: Python, OpenCV.  
 
+- **[AWS EC2 & RDS Setup](https://github.com/sialorama/AWS-EC2-RDS)**  
+  Comprehensive setup of PostgreSQL on AWS EC2, simplifying cloud database management for developers.  
+  **Tech Stack**: AWS EC2, PostgreSQL.  
 
+- **[Energy Consumption API](https://github.com/sialorama/Une-API-opendata-consommation-energie)**  
+  A REST API providing accessible energy consumption data in France, designed for developers and researchers.  
+  **Tech Stack**: Python, REST API.  
 
+- **[Emotion Detection](https://github.com/sialorama/Detection_Des_Emotions)**  
+  Leverages machine learning to analyze and detect emotions based on facial expressions.  
+  **Tech Stack**: Python, Jupyter Notebook, Scikit-Learn.  
+
+---
+
+## Technologies I Use 💻  
+
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>  
+</p>  
+
+---
+
+## About Me 👤  
+
+Hi fellow tech enthusiasts! I’m always eager to explore new technologies and tackle exciting challenges. Whether it's developing AI-driven solutions or diving into **open source** collaborations, my goal is to create meaningful impact.  
+
+**Fun facts about me:**  
+- 🎸 I’m also a guitarist and part of the **Astérie Association** in Plougastel-Daoulas.  
+- ⚙️ I love tinkering with mechanical keyboards.  
+- 🎭 Huge fan of musicals and a good laugh!  
+
+Let’s connect and share ideas:  
+- [Twitter](https://twitter.com/sialorama)  
+- [LinkedIn](https://www.linkedin.com/in/jibanni/)  
+
+---
+
+## Get in Touch 🤝  
+
+- 📍 Based in **Plougastel-Daoulas, France**  
+- 💼 Open to **collaboration opportunities** in **AI**, **Machine Learning**, or **Full Stack Development**  
+- 🌐 GitHub: [sialorama](https://github.com/sialorama)  
+
+---
+
+Qu'en penses-tu ? 😊  
